@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+sampleproject.sample.egg-info/PKG-INFO
+sampleproject.sample.egg-info/SOURCES.txt
+sampleproject.sample.egg-info/dependency_links.txt
+sampleproject.sample.egg-info/entry_points.txt
+sampleproject.sample.egg-info/requires.txt
+sampleproject.sample.egg-info/top_level.txt
+sampleproject/sample/__init__.py
+sampleproject/sample/simple.py

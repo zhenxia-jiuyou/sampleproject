@@ -1,0 +1,3 @@
+[console_scripts]
+sample = sampleproject.sample:main
+
